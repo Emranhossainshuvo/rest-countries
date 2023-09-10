@@ -1,0 +1,11 @@
+.country{
+    border: 4px rgba(101, 88, 88, 0.685);
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+    background-color: rgb(195, 202, 209);
+}
+.btn-spacing{
+    margin-bottom: 5px;
+    display: block;
+}

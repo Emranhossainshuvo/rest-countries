@@ -1,0 +1,15 @@
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3px;
+}
+.visited{
+    background-color: rgba(151, 49, 110, 0.354);
+}
+
+.img-container img{
+    width: 100px;
+    height: 50px;
+    display: block;
+    margin-bottom: 10px;
+}
